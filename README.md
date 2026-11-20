@@ -117,7 +117,7 @@ docker compose exec api pytest -v --cov=src --cov-report=term-missing
 
 | STT | Họ và Tên | MSSV | Vai trò | Nhiệm vụ đảm nhiệm |
 | :---: | :--- | :---: | :--- | :--- |
-| **1** | Dương Quốc Minh Anh | *(MSSV)* | Tác giả & Phát triển toàn bộ (Solo Fullstack) | Thiết kế kiến trúc Clean Architecture, xây dựng Backend REST API (FastAPI, Alembic, PostgreSQL), triển khai Frontend (Streamlit), cấu hình Docker, CI/CD, kiểm thử (Unit/Integration Test) và tài liệu dự án |
+| **1** | Dương Quốc Minh Anh | 0024416257 | Tác giả & Phát triển toàn bộ (Solo Fullstack) | Thiết kế kiến trúc Clean Architecture, xây dựng Backend REST API (FastAPI, Alembic, PostgreSQL), triển khai Frontend (Streamlit), cấu hình Docker, CI/CD, kiểm thử (Unit/Integration Test) và tài liệu dự án |
 
 ---
 
